@@ -3,23 +3,16 @@ using namespace std;
 
 int main() {
 	// Citire date de la tastatura
-/*	int x;
-	cout << "Tastati numarul" << endl;
-	cin >> x;
-	cout << "Nr. dvs este " << x << endl;
-
-	int y;
-	cout << "Introduceti varsta:" << endl;
-	cin >> y;
-	cout << "Varsta dvs este " << y << endl;
-
-	string name;
-	cout << "Introduceti nume:" << endl;
-	cin >> name;
-	cout << "Numele dvs este: " << name;
+/*
+	int lungime, latime, arie;
+	cout << "Introduceti lungimea dreptunghiului:" << endl;
+	cin >> lungime;
+	cout << "Introduceti latimea dreptunghiului:" << endl;
+	cin >> latime;
+	arie = lungime * latime;
+	cout << "Aria drepntunghiului este: " << arie;
 */
 
-	
 
 
 	return 0;
