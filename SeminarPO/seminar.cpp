@@ -2,25 +2,24 @@
 using namespace std;
 
 int main() {
-	int x, y, z;
-	x = y = z = 30;
+	// Citire date de la tastatura
+/*	int x;
+	cout << "Tastati numarul" << endl;
+	cin >> x;
+	cout << "Nr. dvs este " << x << endl;
 
-	const int a = 30;
-	const string cnp = "12324343";
-	const int id = 1;
-	const string nume = "lucian";
+	int y;
+	cout << "Introduceti varsta:" << endl;
+	cin >> y;
+	cout << "Varsta dvs este " << y << endl;
 
-	cout << cnp << endl;
+	string name;
+	cout << "Introduceti nume:" << endl;
+	cin >> name;
+	cout << "Numele dvs este: " << name;
+*/
 
-	int studentID = 15;
-	int studentAge = 22;
-	float studentFee = 3500.20;
-	char studentGrade = 'b';
-
-	cout << studentID << endl;
-	cout << studentAge << endl;
-	cout << studentFee << endl;
-	cout << studentGrade;
+	
 
 
 	return 0;
